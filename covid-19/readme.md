@@ -92,4 +92,4 @@ We all know that we can make use of much more information, such as list of hospi
 
 ### Credits
 
-* Medical Supplies original dataset compiled by Ko Nyein Chan Ko Ko
+* Medical Supplies original dataset compiled by Ko Nyein Chan Ko Ko and volunteers
