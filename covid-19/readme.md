@@ -4,7 +4,7 @@ This repo tries to tackle the issue of the lack of consolidated open data for th
 
 This repo also tries to help web developers, data visualizers, journalists and researchers to build tools that can help the decision-making process more evidence-based and help the community respond in most efficient ways. 
 
-### Who owns the data
+### Who owns the data?
 
 All of these data are publicly available open data produced, digitized or maintained by public offices and non-profit organizations, namely MoHS, DoMS, GAD, TAF, ODMM and MIMU. 
 
@@ -88,4 +88,4 @@ We all know that we can make use of much more information, such as list of hospi
 * Phyo Ko Ko
 * Aung Htun Lin (The Ananda)
 * Nyan Lynn Myint (The Ananda)
-* Htin Kyaw Aye (The Ananda    
+* Htin Kyaw Aye (The Ananda)    
