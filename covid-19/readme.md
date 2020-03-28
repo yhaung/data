@@ -82,10 +82,10 @@ We all know that we can make use of much more information, such as list of hospi
 | hospital-name    | ဆေးရုံအမည် (မြန်မာ)    | DoMS                    | [http://www.doms.gov.mm/](http://www.doms.gov.mm/)   
 
 
-### Contributors/Volunteers 
+### Contributors/Volunteers
 
 * Kyi Toe
 * Phyo Ko Ko
 * Aung Htun Lin (The Ananda)
 * Nyan Lynn Myint (The Ananda)
-* Htin Kyaw Aye (The Ananda)    
+* Htin Kyaw Aye (The Ananda) 
