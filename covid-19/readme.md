@@ -89,3 +89,7 @@ We all know that we can make use of much more information, such as list of hospi
 * Aung Htun Lin (The Ananda)
 * Nyan Lynn Myint (The Ananda)
 * Htin Kyaw Aye (The Ananda) 
+
+### Credits
+
+* Medical Supplies original dataset compiled by Ko Nyein Chan Ko Ko
