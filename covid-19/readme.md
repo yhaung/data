@@ -81,6 +81,23 @@ We all know that we can make use of much more information, such as list of hospi
 | hospital-name-en | ဆေးရုံအမည် (အင်္ဂလိပ်) | MoHS | [https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8](https://doph.maps.arcgis.com/apps/opsdashboard/index.html#/f8fb4ccc3d2d42c7ab0590dbb3fc26b8) | ကျန်းမာရေးဝန်ကြီးဌာန၏ covid-19 dashboard တွင် ဖော်ပြသည့် ဆေးရုံအမည်များဖြစ်ပါသည်။                                 |
 | hospital-name    | ဆေးရုံအမည် (မြန်မာ)    | DoMS                    | [http://www.doms.gov.mm/](http://www.doms.gov.mm/)   
 
+# `Medical Supplies with Location.csv`
+| data              | description                   | source |
+| ----------------- | ----------------------------- | ------ |
+| Sn                | အမှတ်စဉ်                      | MoHS   |
+| Announcement Date | ကြေငြာချက်ထုတ်သည့်ရက်စွဲ      | MoHS   |
+| Hospital-original | ဆေးရုံ (မူရင်းကြေငြာချက်)     | MoHS   |
+| hospital-name-mm  | ဆေေးရုံအမည် (မြန်မာ)          | MoHS   |
+| PPE               | PPE ဝတ်ဆုံ                    | MoHS   |
+| Glove             | လက်အိတ်                       | MoHS   |
+| N-95              | N-95 နှာခေါင်းစည်း            | MoHS   |
+| Surgical Mask     | ခွဲစိတ်ခန်းသုံး နှာခေါင်းစည်း | MoHS   |
+| Goggle            | မျက်မှန်                      | MoHS   |
+| Shoe Cover        | ဖိနပ်ပိတ်                     | MoHS   |
+| Remarks           | မှတ်ချက်                      | MoHS   |
+| Ref               | ရင်းမြစ် (လင့်ခ်)             | MoHS   |
+| lat               | လတ္တီကျုဒ်                    | DoMS   |
+| long              | လောင်ဂျီကျုဒ်                 | DoMS   |
 
 ### Contributors/Volunteers
 
